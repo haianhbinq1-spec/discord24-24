@@ -33,7 +33,7 @@ import munch
 import base64
 import datetime
 from bs4 import BeautifulSoup
-from main.fb import *
+from main import *
 from main import *
 import websockets
 import asyncio
